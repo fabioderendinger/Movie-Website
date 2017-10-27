@@ -62,7 +62,7 @@ $(document).ready(function(){
         ready: function(modal, trigger) { // Callback for Modal open. Modal and trigger parameters available.
             // Start video when modal is opened
             $('.video-container').html(
-                '<iframe width="853" height="480" src=' + trailer_url + ' frameborder="0" allowfullscreen></iframe>'
+                '<iframe src=' + trailer_url + ' frameborder="0" allowfullscreen></iframe>'
             );
         },
         complete: function() {
