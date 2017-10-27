@@ -8,7 +8,7 @@ body {
     align-items: center;
     justify-content: center;
     background: rebeccapurple;
-    min-height: 450px;
+    min-height: 400px;
     height: calc(100vh - 400px);
     overflow: hidden;
 }
@@ -64,8 +64,8 @@ td {
 }
 
 
-@media only screen and (max-width: 700px) { 
+/* @media only screen and (max-width: 700px) { 
     h2 {
         font-size: 35px;
     }
- }
+ } */
