@@ -4,6 +4,10 @@
 Movie trailer website project, part of the Udacity [Full Stack Web Developer
 Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
+## Demo
+
+For a demo, check out <https://fabioderendinger.github.io/movie-website/>
+
 ## What it is and does
 
 Server-side python script to store a list of my favorite movies, including box art imagery, movie trailer URL and additional metadata. This data is served as a webpages (index.html) dynamically generetated by the python script.
