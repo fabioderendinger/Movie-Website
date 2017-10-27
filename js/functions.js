@@ -12,7 +12,7 @@ $(document).ready(function(){
             var storyline = $(ele).attr('data-storyline');
             var wallpaper_url = $(ele).attr('data-wallpaper');
             var trailer_id = $(ele).attr('data-trailer-youtube-id');
-            trailer_url = 'http://www.youtube.com/embed/' + trailer_id + '?autoplay=1&html5=1&VQ=HD720&iv_load_policy=3';
+            trailer_url = 'https://www.youtube.com/embed/' + trailer_id + '?autoplay=1&html5=1&VQ=HD720&iv_load_policy=3';
             var director = $(ele).attr('data-director');
             var country = $(ele).attr('data-country');
             var rating = $(ele).attr('data-rating');
