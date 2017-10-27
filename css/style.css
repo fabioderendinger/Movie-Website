@@ -1,8 +1,6 @@
 body {
     margin: 0px;
-    width: 100vw;
-    overflow: hidden;
-    background: red;
+    background: blue;
 }
 
 .preview-container {
@@ -63,7 +61,6 @@ td {
 
 .carousel {
     top: -50px;
-    overflow: visible;
 }
 
 
